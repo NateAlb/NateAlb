@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Nathan A 😊
+## Bem vindo ao meu perfil! 😁
 
 <div>
   <a href="https://github.com/NateAlb">
