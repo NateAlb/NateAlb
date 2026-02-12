@@ -9,7 +9,6 @@
 </div>
 
 ---
- <br>
 <div align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=8000&color=FFFFFF&background=off&width=435&lines=Technologies+and+tools+I+use:;Tecnologias+e+ferramentas+que+utilizo:" alt="Typing Subtitle" />
   <br>
