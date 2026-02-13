@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=100&pause=8000&color=FFFFFF&background=89C0E9&center=true&vCenter=true&width=1250&height=200&lines=HELLO,+WORLD!;OL%C3%81,+MUNDO!" alt="Typing Banner" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=100&pause=8000&color=FFFFFF&background=4A5A50&center=true&vCenter=true&width=1250&height=200&lines=HELLO,+WORLD!;OL%C3%81,+MUNDO!" alt="Typing Banner" />
 <br>
 <a href="https://SEU-SITE-AQUI.com">
   <img src="https://img.shields.io/badge/CHECK_OUT_MY_PORTFOLIO-FFFFFF?style=for-the-badge&logo=firefox&logoColor=black" />
